@@ -1,4 +1,4 @@
-# Prime-number-generator-and-checker-
+# Prime_number_generator_and_checker
 📌 Description
 > This project is a simple yet efficient tool for generating prime numbers and checking whether a given number is prime. It is built for my AI assessment and demonstrates algorithmic implementation for prime number detection.A prime number is a natural number greater than 1 that has only two factors: 1 and itself. For example, 2, 3, 5, 7, 11, 13, ... are prime numbers. The goal of this project is to develop a Prime Number Generator and Checker, which allows users to:
 
